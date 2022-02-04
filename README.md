@@ -1,5 +1,3 @@
-# Doit-Vue.js
-
 ## ✌ Do it! Vue.js 입문
 
 이지스 퍼블리싱의 `Do it! Vue.js 입문` 책을 공부하면서 책 속의 예제를 업로드합니다.  
